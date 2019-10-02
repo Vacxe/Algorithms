@@ -1,4 +1,4 @@
-package com.vacxe.segmenttree;
+package com.github.vacxe.segmenttree;
 
 public class SegmentTree {
     final int[] tree;

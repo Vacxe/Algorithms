@@ -1,4 +1,4 @@
-package com.vacxe.qsort;
+package com.github.vacxe.qsort;
 
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
