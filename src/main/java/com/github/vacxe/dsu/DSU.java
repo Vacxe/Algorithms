@@ -1,4 +1,4 @@
-package com.vacxe.dsu;
+package com.github.vacxe.dsu;
 
 public class DSU {
     int[] p;
